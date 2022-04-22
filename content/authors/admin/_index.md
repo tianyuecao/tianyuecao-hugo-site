@@ -1,6 +1,6 @@
 ---
 title: Tianyue Cao
-role: Artificial Intelligence Engineer in Tecent
+role: Artificial Intelligence Engineer
 avatar_filename: wechatimg615.png
 bio: My research interests include Computer Vision, Graph Neural Network,
   Weakly/Semi-supervised Learning.
@@ -36,9 +36,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Hi, I'm Tianyue Cao, an artificial intelligence engineer in Tecent. 
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
