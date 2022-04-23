@@ -29,8 +29,8 @@ abstract: A large gap exists between fully-supervised object detection and
   and 80.3% CorLoc with 5 overlapping categories between two datasets, which
   outperforms the state-of-the-art methods. Codes are avaliable at
   https://github.com/MediaBrain-SJTU/CaT.
-draft: true
-featured: false
+draft: false
+featured: true
 tags: []
 slides: example
 url_pdf: ""
@@ -47,9 +47,8 @@ url_video: ""
 author_notes: []
 doi: ""
 publication: In *International Conference on Computer Vision*
-projects:
-  - example
-date: 2013-07-01T00:00:00Z
+projects: []
+date: 2021-10-12T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
