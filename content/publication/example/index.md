@@ -1,4 +1,15 @@
 ---
+title: "CaT: Weakly Supervised Object Detection With Category Transfer"
+publication_types:
+  - "1"
+authors:
+  - Tianyue Cao
+  - Lianyu Du
+  - Xiaoyun Zhang
+  - Siheng Chen
+  - Ya Zhang
+  - Yan-Feng Wang
+publication_short: In *ICCV 2021*
 abstract: A large gap exists between fully-supervised object detection and
   weakly-supervised object detection. To narrow this gap, some methods consider
   knowledge transfer from additional fully-supervised dataset. But these methods
@@ -18,36 +29,26 @@ abstract: A large gap exists between fully-supervised object detection and
   and 80.3% CorLoc with 5 overlapping categories between two datasets, which
   outperforms the state-of-the-art methods. Codes are avaliable at
   https://github.com/MediaBrain-SJTU/CaT.
+draft: true
+featured: false
+tags: []
 slides: example
 url_pdf: ""
-publication_types:
-  - "1"
-authors:
-  - Tianyue Cao
-  - Lianyu Du
-  - Xiaoyun Zhang
-  - Siheng Chen
-  - Ya Zhang
-  - Yan-Feng Wang
-author_notes: []
-publication: In *International Conference on Computer Vision*
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: In *ICCV 2021*
-url_source: ""
-url_video: ""
-title: "CaT: Weakly Supervised Object Detection With Category Transfer"
-doi: ""
-featured: true
-tags: []
-projects:
-  - example
 image:
   caption: the architecture of CaT
   focal_point: ""
   preview_only: false
   filename: featured.png
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: In *International Conference on Computer Vision*
+projects:
+  - example
 date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
