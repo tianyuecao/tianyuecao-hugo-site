@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: vanessa_@sjtu.edu.cn
+    link: /#contact
   - icon: github
     icon_pack: fab
     link: https://github.com/tianyuecao
@@ -30,6 +30,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi, I'm Tianyue Cao, a newly advertising artificial intelligence engineer in Tecent. My research interests include *Computer Vision, Graph Neural Network, and Weakly/Semi-supervised Learning*. I was a member of the [MediaBrain](https://mediabrain.sjtu.edu.cn/) group mentored by Xiaoyun Zhang in Shanghai Jiao Tong University.
+Hi, I'm Tianyue Cao, a newly advertising artificial intelligence engineer in Tecent. My research interests include *Computer Vision, Graph Neural Network, and Weakly/Semi-supervised Learning*. I was a member of [MediaBrain](https://mediabrain.sjtu.edu.cn/) group mentored by Xiaoyun Zhang in Shanghai Jiao Tong University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
