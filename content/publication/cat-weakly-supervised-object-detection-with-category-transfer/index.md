@@ -32,7 +32,7 @@ abstract: A large gap exists between fully-supervised object detection and
 draft: false
 featured: true
 tags: []
-slides: example
+slides: ""
 url_pdf: ""
 image:
   caption: the architecture of CaT
