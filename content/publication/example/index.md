@@ -1,44 +1,41 @@
 ---
-title: "CaT: Weakly Supervised Object Detection With Category Transfer"
+title: Learning to Learn Graph Topologies
 publication_types:
   - "1"
 authors:
+  - Xingyue Pu
   - Tianyue Cao
-  - Lianyu Du
   - Xiaoyun Zhang
+  - Xiaowen Dong
   - Siheng Chen
-  - Ya Zhang
-  - Yan-Feng Wang
-publication_short: In *ICCV 2021*
-abstract: A large gap exists between fully-supervised object detection and
-  weakly-supervised object detection. To narrow this gap, some methods consider
-  knowledge transfer from additional fully-supervised dataset. But these methods
-  do not fully exploit discriminative category information in the
-  fully-supervised dataset, thus causing low mAP. To solve this issue, we
-  propose a novel category transfer framework for weakly supervised object
-  detection. The intuition is to fully leverage both visually-discriminative and
-  semantically-correlated category information in the fully-supervised dataset
-  to enhance the object-classification ability of a weakly-supervised detector.
-  To handle overlapping category transfer, we propose a double-supervision mean
-  teacher to gather common category information and bridge the domain gap
-  between two datasets. To handle non-overlapping category transfer, we propose
-  a semantic graph convolutional network to promote the aggregation of semantic
-  features between correlated categories. Experiments are conducted with Pascal
-  VOC 2007 as the target weakly-supervised dataset and COCO as the source
-  fully-supervised dataset. Our category transfer framework achieves 63.5% mAP
-  and 80.3% CorLoc with 5 overlapping categories between two datasets, which
-  outperforms the state-of-the-art methods. Codes are avaliable at
-  https://github.com/MediaBrain-SJTU/CaT.
+publication_short: In *NeruIPS 2021*
+abstract: Learning a graph topology to reveal the underlying relationship
+  between data entities plays an important role in various machine learning and
+  data analysis tasks. Under the assumption that structured data vary smoothly
+  over a graph, the problem can be formulated as a regularised convex
+  optimisation over a positive semidefinite cone and solved by iterative
+  algorithms. Classic methods require an explicit convex function to reflect
+  generic topological priors, e.g. the ℓ1 penalty for enforcing sparsity, which
+  limits the flexibility and expressiveness in learning rich topological
+  structures. We propose to learn a mapping from node data to the graph
+  structure based on the idea of learning to optimise (L2O). Specifically, our
+  model first unrolls an iterative primal-dual splitting algorithm into a neural
+  network. The key structural proximal projection is replaced with a variational
+  autoencoder that refines the estimated graph with enhanced topological
+  properties. The model is trained in an end-to-end fashion with pairs of node
+  data and graph samples. Experiments on both synthetic and real-world data
+  demonstrate that our model is more efficient than classic iterative algorithms
+  in learning a graph with specific topological properties.
 draft: false
 featured: true
 tags: []
 slides: example
 url_pdf: ""
 image:
-  caption: the architecture of CaT
+  caption: an illustration of the proposed framework
   focal_point: ""
   preview_only: false
-  filename: featured.png
+  filename: featured.jpg
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -46,11 +43,11 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: In *International Conference on Computer Vision*
+publication: In *Conference on Neural Information Processing Systems*
 projects: []
 date: 2021-10-12T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
