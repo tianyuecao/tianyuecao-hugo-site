@@ -1,5 +1,5 @@
 ---
-title: Tianyue Cao
+title: Tianyue Cao（曹天悦）
 role: Artificial Intelligence Engineer
 avatar_filename: avatar.png
 bio: My research interests include Computer Vision, Graph Neural Network,
