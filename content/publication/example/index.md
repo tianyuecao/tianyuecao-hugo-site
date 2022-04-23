@@ -35,7 +35,7 @@ image:
   caption: an illustration of the proposed framework
   focal_point: ""
   preview_only: false
-  filename: featured.jpg
+  filename: ""
 summary: ""
 url_dataset: ""
 url_project: ""
