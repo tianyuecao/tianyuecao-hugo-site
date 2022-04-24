@@ -30,6 +30,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi, I'm Tianyue Cao, an advertising artificial intelligence engineer in Tecent. Before joining the industry, I was a member of [MediaBrain](https://mediabrain.sjtu.edu.cn/) group mentored by Xiaoyun Zhang in Shanghai Jiao Tong University. My research interests include *Computer Vision, Graph Neural Network, and Weakly/Semi-supervised Learning*.
+Hi, I'm Tianyue Cao. I'm now an advertising artificial intelligence engineer in Tecent. Before joining the industry, I was a member of [MediaBrain](https://mediabrain.sjtu.edu.cn/) group and mentored by Xiaoyun Zhang in Shanghai Jiao Tong University. My research interests include *Computer Vision, Graph Neural Network, and Weakly/Semi-supervised Learning*.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
