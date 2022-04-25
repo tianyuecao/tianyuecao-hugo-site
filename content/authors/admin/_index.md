@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: vanessa_@sjtu.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/tianyuecao
