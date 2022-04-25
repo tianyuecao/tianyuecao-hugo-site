@@ -20,10 +20,10 @@ organizations:
     url: ""
 education:
   courses:
-    - course: Artifical Intelligence Engineer
+    - job: Artifical Intelligence Engineer
       institution: Tecent
       year: "Now"
-    - course: Applied Scientist Intern
+    - job: Applied Scientist Intern
       institution: Amazon
       year: "Jul. 2021-Mar. 2022"
       icon: building-columns
