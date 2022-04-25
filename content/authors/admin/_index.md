@@ -18,7 +18,7 @@ social:
 organizations:
   - name: Tecent
     url: ""
-experience:
+education:
   courses:
     - course: Applied Scientist Intern
       institution: Amazon
