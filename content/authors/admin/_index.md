@@ -23,9 +23,11 @@ education:
     - course: Artifical Intelligence Engineer
       institution: Tecent
       year:"Now"
+      icon: building-columns
     - course: Applied Scientist Intern
       institution: Amazon
       year: "Jul. 2021-Mar. 2022"
+      icon: building-columns
     - course: MS in Information and Communication Engineering
       institution: Shanghai Jiao Tong University
       year: "Sep. 2019-Jul. 2022"
