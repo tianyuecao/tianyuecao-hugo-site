@@ -19,8 +19,9 @@ organizations:
   - name: Tecent
     url: ""
 education:
-  title: Experience
   courses:
+    - course: Artifical Intelligence Engineer
+      institution: Tecent
     - course: Applied Scientist Intern
       institution: Amazon
       year: "Jul. 2021-Mar. 2022"
@@ -34,6 +35,6 @@ email: "vanessa_@sjtu.edu.cn"
 superuser: true
 highlight_name: true
 ---
-Hi, I'm Tianyue Cao. I'm now an advertising artificial intelligence engineer in Tecent. Before joining the industry, I was a member of [MediaBrain](https://mediabrain.sjtu.edu.cn/) group and mentored by Xiaoyun Zhang in Shanghai Jiao Tong University. My research interests include *Computer Vision, Graph Neural Network, and Weakly/Semi-supervised Learning*.
+Hi, I'm Tianyue Cao. I'm now an advertising artificial intelligence engineer in Tecent. Before joining the industry, I was a member of [MediaBrain](https://mediabrain.sjtu.edu.cn/) group and mentored by Xiaoyun Zhang in Shanghai Jiao Tong University. My research interests include *Computer Vision, Graph Neural Network, and Weakly/Semi-supervised Learning*. I love music (both classical and pop music), and I love explore new things. Feel free to contact me at [vanessa_@sjtu.edu.cn](http://vanessa_@sjtu.edu.cn) at any time!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tianyuecao-sjtu-resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
