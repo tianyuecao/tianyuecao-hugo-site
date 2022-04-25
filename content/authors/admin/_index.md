@@ -22,13 +22,13 @@ education:
   courses:
     - course: Applied Scientist Intern
       institution: Amazon
-<!--       year: "Jul. 2021-Mar. 2022" -->
+      year: "Jul. 2021-Mar. 2022"
     - course: MS in Information and Communication Engineering
       institution: Shanghai Jiao Tong University
-<!--       year: "Sep. 2019-Jul. 2022" -->
+      year: "Sep. 2019-Jul. 2022"
     - course: BSc in Computer Science
       institution: Shanghai Jiao Tong University
-<!--       year: "Sep. 2015-Jul. 2019" -->
+      year: "Sep. 2015-Jul. 2019"
 email: "vanessa_@sjtu.edu.cn"
 superuser: true
 highlight_name: true
