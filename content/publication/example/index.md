@@ -29,7 +29,7 @@ abstract: Learning a graph topology to reveal the underlying relationship
 draft: false
 featured: true
 tags: []
-slides: example
+slides: ""
 url_pdf: "https://openreview.net/pdf?id=ZqabiikWeyt"
 image:
   caption: an illustration of the proposed framework
