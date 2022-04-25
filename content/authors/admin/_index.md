@@ -18,14 +18,17 @@ social:
 organizations:
   - name: Tecent
     url: ""
-education:
+experience:
   courses:
+    - course: Applied Scientist Intern
+      institution: Amazon
+      year: "Jul. 2021-Mar. 2022"
     - course: MS in Information and Communication Engineering
       institution: Shanghai Jiao Tong University
-      year: ""
+      year: "Sep. 2019-Jul. 2022"
     - course: BSc in Computer Science
       institution: Shanghai Jiao Tong University
-      year: ""
+      year: "Sep. 2015 - Jul. 2019"
 email: ""
 superuser: true
 highlight_name: true
