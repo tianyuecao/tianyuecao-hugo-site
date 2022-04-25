@@ -22,17 +22,17 @@ education:
   courses:
     - course: Applied Scientist Intern
       institution: Amazon
-      year: "Jul. 2021-Mar. 2022"
+<!--       year: "Jul. 2021-Mar. 2022" -->
     - course: MS in Information and Communication Engineering
       institution: Shanghai Jiao Tong University
-      year: "Sep. 2019-Jul. 2022"
+<!--       year: "Sep. 2019-Jul. 2022" -->
     - course: BSc in Computer Science
       institution: Shanghai Jiao Tong University
-      year: "Sep. 2015 - Jul. 2019"
-email: ""
+<!--       year: "Sep. 2015-Jul. 2019" -->
+email: "vanessa_@sjtu.edu.cn"
 superuser: true
 highlight_name: true
 ---
 Hi, I'm Tianyue Cao. I'm now an advertising artificial intelligence engineer in Tecent. Before joining the industry, I was a member of [MediaBrain](https://mediabrain.sjtu.edu.cn/) group and mentored by Xiaoyun Zhang in Shanghai Jiao Tong University. My research interests include *Computer Vision, Graph Neural Network, and Weakly/Semi-supervised Learning*.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tianyuecao-sjtu-resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
