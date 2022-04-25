@@ -22,7 +22,7 @@ education:
   courses:
     - course: Artifical Intelligence Engineer
       institution: Tecent
-      year:"Now"
+      year: "Now"
     - course: Applied Scientist Intern
       institution: Amazon
       year: "Jul. 2021-Mar. 2022"
