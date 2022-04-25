@@ -33,7 +33,7 @@ draft: false
 featured: true
 tags: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_CaT_Weakly_Supervised_Object_Detection_With_Category_Transfer_ICCV_2021_paper.pdf"
 image:
   caption: the architecture of CaT
   focal_point: ""
@@ -50,12 +50,12 @@ publication: In *International Conference on Computer Vision*
 projects: []
 date: 2021-10-12T02:29:08.288Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-10-12T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/MediaBrain-SJTU/CaT"
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -63,4 +63,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
