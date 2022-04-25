@@ -92,14 +92,44 @@
       {{ with $person.education }}
       <div class="education-div col-md-7">
         <h3>{{ i18n "education" | markdownify }}</h3>
-        <ul class="ul-edu fa-ul">
-          {{ range .courses }}
-          <li>
+        
+        {{ if .course }}
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
             </div>
+            {{ end }}
+            {{ if .job }}
+            <i class="fa-li fas fa-university"></i>
+            <div class="description">
+              <p class="course">{{ .job }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div>
+            {{ end }}
+        
+        <ul class="ul-edu fa-ul">
+          {{ range .courses }}
+          <li>
+            {{ if .course }}
+              <i class="fa-li fas fa-graduation-cap"></i>
+              <div class="description">
+                <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+                <p class="institution">{{ .institution }}</p>
+              </div>
+            {{ end }}
+            {{ if .job }}
+              <i class="fa-li fas fa-university"></i>
+              <div class="description">
+                <p class="course">{{ .job }}{{ with .year }}, {{ . }}{{ end }}</p>
+                <p class="institution">{{ .institution }}</p>
+              </div>
+            {{ end }}
+<!--             <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div> -->
           </li>
           {{ end }}
         </ul>
