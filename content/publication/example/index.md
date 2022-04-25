@@ -30,7 +30,7 @@ draft: false
 featured: true
 tags: []
 slides: example
-url_pdf: ""
+url_pdf: "https://openreview.net/pdf?id=ZqabiikWeyt"
 image:
   caption: an illustration of the proposed framework
   focal_point: ""
@@ -47,9 +47,9 @@ publication: In *Conference on Neural Information Processing Systems*
 projects: []
 date: 2021-12-06T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-12-06T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/xpuoxford/L2G-neurips2021"
 ---
 
 {{% callout note %}}
