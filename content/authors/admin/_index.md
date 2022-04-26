@@ -22,7 +22,7 @@ education:
   courses:
     - job: Artifical Intelligence Engineer
       institution: Tecent
-      year: "Now"
+      year: "Present"
     - job: Applied Scientist Intern
       institution: Amazon
       year: "2021"
