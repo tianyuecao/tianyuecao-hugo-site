@@ -39,4 +39,4 @@ highlight_name: true
 ---
 Hi, I'm Tianyue Cao. I'm now an advertising artificial intelligence engineer in Tecent. Before joining the industry, I was a member of [MediaBrain](https://mediabrain.sjtu.edu.cn/) group and mentored by Xiaoyun Zhang in Shanghai Jiao Tong University. My research interests include *Computer Vision, Graph Neural Network, and Weakly/Semi-supervised Learning*. I love music (both classical and pop music), and I love explore new things. Feel free to contact me at [vanessa_@sjtu.edu.cn](http://vanessa_@sjtu.edu.cn) at any time!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tianyuecao-sjtu-resume-20220426.pdf" "newtab" >}}resumé{{< /staticref >}}({{< staticref "uploads/tianyuecao-sjtu-resume-chinese-20220426.pdf" "newtab" >}}简历{{< /staticref >}}).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tianyuecao-sjtu-resume-20220704.pdf" "newtab" >}}resumé{{< /staticref >}}({{< staticref "uploads/tianyuecao-sjtu-resume-chinese-20220426.pdf" "newtab" >}}简历{{< /staticref >}}).
